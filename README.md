@@ -39,7 +39,7 @@ The script will scrape the reviews, send them to the API, and create an `output.
 ## Output video for the assignment
 
 <p align="center">
-  <a href="https://github.com/kiranreddy58/llm_review/blob/main/output_video.mp4">
+  <a href="https://drive.google.com/file/d/12deaYJtHBTqg9V5b_NoCTqKjxcB39zpe/view?usp=sharing">
     <img src="assets/video_thumbnail.png" alt="Watch Output Video" width="600">
   </a>
 </p>

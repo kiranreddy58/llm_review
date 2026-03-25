@@ -42,4 +42,6 @@ The script will scrape the reviews, send them to the API, and create an `output.
   <a href="https://drive.google.com/file/d/12deaYJtHBTqg9V5b_NoCTqKjxcB39zpe/view?usp=sharing">
     <img src="assets/video_thumbnail.png" alt="Watch Output Video" width="600">
   </a>
+  <br>
+  <i>Click the play button above to watch the output video on Google Drive.</i>
 </p>

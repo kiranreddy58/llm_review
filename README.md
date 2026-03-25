@@ -38,7 +38,8 @@ The script will scrape the reviews, send them to the API, and create an `output.
 
 ## Output video for the assignment
 
-<video width="100%" height="auto" controls>
-  <source src="https://github.com/kiranreddy58/llm_review/raw/refs/heads/main/output_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+  <a href="https://github.com/kiranreddy58/llm_review/blob/main/output_video.mp4">
+    <img src="assets/video_thumbnail.png" alt="Watch Output Video" width="600">
+  </a>
+</p>
